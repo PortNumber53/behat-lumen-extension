@@ -17,7 +17,7 @@
     },
     "require": {
         "php": ">=7.2",
-        "laravel/lumen-framework": "5.*",
+        "laravel/lumen-framework": "5.5.*",
         "behat/behat": "~3.0",
         "behat/mink-browserkit-driver": "~1.2"
     },
